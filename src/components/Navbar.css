@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+}
+
+.nav {
+  width: 100%;
+  box-shadow: 5px 5px 10px #e1e1e1;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  font-weight: 900;
+  color: #FF5A5F;
+  font-size: 2rem;
+  padding: 2rem 4rem;
+}
+
+.nav > .logo {
+  width: 3rem;
+  font-weight: bold;
+}

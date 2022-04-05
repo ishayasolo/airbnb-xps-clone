@@ -1,0 +1,21 @@
+.hero {
+  padding: 4rem 5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero > .photo-grid {
+  width: 85%;
+  align-self: center;
+}
+
+.heading {
+  font-size: 5rem;
+  margin-bottom: 0.5rem;
+}
+
+.paragraph {
+  font-size: 2rem;
+  font-weight: 300;
+  max-width: 650px;
+}
